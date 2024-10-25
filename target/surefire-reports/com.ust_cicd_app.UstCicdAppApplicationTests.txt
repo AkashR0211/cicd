@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ust_cicd_app.UstCicdAppApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.387 s -- in com.ust_cicd_app.UstCicdAppApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.229 s -- in com.ust_cicd_app.UstCicdAppApplicationTests
